@@ -1,0 +1,3 @@
+C:/Users/erick/CLionProjects/CalcularFactorial/cmake-build-debug/CMakeFiles/CalcularFactorial.dir
+C:/Users/erick/CLionProjects/CalcularFactorial/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/erick/CLionProjects/CalcularFactorial/cmake-build-debug/CMakeFiles/rebuild_cache.dir
