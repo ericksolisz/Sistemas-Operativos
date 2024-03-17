@@ -1,0 +1,3 @@
+/home/erick/CLionProjects/LaboratorioWaitPid3/cmake-build-debug/CMakeFiles/LaboratorioWaitPid3.dir
+/home/erick/CLionProjects/LaboratorioWaitPid3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/erick/CLionProjects/LaboratorioWaitPid3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
